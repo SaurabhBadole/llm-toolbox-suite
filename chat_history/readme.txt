@@ -1,0 +1,1 @@
+This folder contains the chat history from the ChatBuddy conversations.

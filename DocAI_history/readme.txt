@@ -1,0 +1,1 @@
+This folder contains conversations from the DocAI Q&A RAG application in PDF format.
